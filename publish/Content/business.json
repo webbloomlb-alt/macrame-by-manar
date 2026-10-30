@@ -1,0 +1,195 @@
+{
+  "slug": "macrame-by-manar",
+  "name": "Macrame By Manar",
+  "theme": "manar",
+  "phone": "+96178843669",
+  "phoneDisplay": "+961 78 843 669",
+  "email": null,
+  "instagram": "https://www.instagram.com/macrame.by.manar/",
+  "instagramHandle": "@macrame.by.manar",
+  "location": "Btouratij, Koura",
+  "makers": "Manar Ayoubi",
+  "address": "Btouratij, Koura, Lebanon",
+  "mapUrl": "https://maps.app.goo.gl/VUFPDuTMpuRsuoVc8",
+  "eyebrow": "Macrame, made personal",
+  "headline": "Bring a little<br><em>texture</em> home.",
+  "intro": "Soft fringes. Quiet colours. Knotted details with a place in your everyday. Explore macrame home decor, bags and little gifts by Manar Ayoubi.",
+  "photoTag": "A softer kind of statement",
+  "stamp": "Made by hand<br>In Lebanon",
+  "heroPhoto": 1,
+  "insetPhoto": 6,
+  "storyPhoto": 9,
+  "featured": [
+    "round-fringe-mirrors",
+    "fringed-shoulder-bag",
+    "tassel-keyrings",
+    "two-tone-bag"
+  ],
+  "storyLabel": "The maker behind the knots",
+  "storyTitle": "Thoughtful details.<br><em>Tactile spaces.</em>",
+  "storyShort": "From Btouratij in Koura, Manar Ayoubi creates macrame for the home, accessories and souvenirs for special occasions. Her pictured work brings together natural tones, texture and fringe.",
+  "storyLong": "Macrame By Manar is the work of Manar Ayoubi, based in Btouratij, Koura. Her public portfolio brings together home decor, bags, accessories and souvenirs for occasions.",
+  "storySecond": "A fringed mirror, a textured vessel, a bag with a knotted flap: each photograph is a starting point for exploring the work. Save the references you like and speak with Manar about colour, size, current options and pricing.",
+  "statement": "Natural tones. Soft edges.<br>A little more feeling in the everyday.",
+  "visit": "Please contact Manar before visiting to confirm the location and a suitable time.",
+  "closingTitle": "An idea, waiting<br>to be <em>knotted.</em>",
+  "closingText": "A finishing touch for home or a thoughtful little gift. Share your idea and ask Manar about the possibilities.",
+  "collectionIntro": "Discover knotted textures for your home, your everyday and your next thoughtful gift. Choose a photo reference and discuss the details with Manar.",
+  "galleryIntro": "Styled spaces, knotted details and pieces up close. Open a photograph to see its full composition.",
+  "categories": [
+    "Wall & mirrors",
+    "Bags",
+    "Little gifts",
+    "Table textures"
+  ],
+  "photos": [
+    {
+      "file": "photo-01.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Macrame table vessels",
+      "alt": "Macrame-covered vessels and dried stems on a styled dining table",
+      "small": "photo-01-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-02.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Table vessel detail",
+      "alt": "Cream fringed macrame vessel with dried stems beside candles",
+      "small": "photo-02-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-03.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Fringed shoulder bag",
+      "alt": "Taupe macrame shoulder bag with triangular flap and long fringe",
+      "small": "photo-03-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-04.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Macrame keyrings",
+      "alt": "Macrame tassel keyrings in burgundy, taupe, pink, cream and neutral colours",
+      "small": "photo-04-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-05.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Two-tone shoulder bag",
+      "alt": "Brown and cream macrame shoulder bag with tassels",
+      "small": "photo-05-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-06.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Sage wall hanging",
+      "alt": "Sage green macrame wall hanging with geometric knots and long fringe",
+      "small": "photo-06-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-07.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Round fringe mirror",
+      "alt": "Round mirror with taupe knotted macrame frame and fringe",
+      "small": "photo-07-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-08.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Natural round mirror",
+      "alt": "Round mirror with cream geometric macrame frame and fringe",
+      "small": "photo-08-600.jpg",
+      "smallWidth": 600
+    },
+    {
+      "file": "photo-09.jpg",
+      "width": 1200,
+      "height": 800,
+      "title": "Large geometric wall hanging",
+      "alt": "Large cream macrame wall hanging with repeating diamonds and long fringe",
+      "small": "photo-09-600.jpg",
+      "smallWidth": 600
+    }
+  ],
+  "pieces": [
+    {
+      "id": "natural-wall-hanging",
+      "title": "Natural wall hanging",
+      "category": "Wall & mirrors",
+      "description": "A large geometric macrame wall hanging on a wooden rod, with long cream fringe. Share your wall measurements when enquiring.",
+      "photos": [
+        9
+      ]
+    },
+    {
+      "id": "fringed-shoulder-bag",
+      "title": "Fringed shoulder bag",
+      "category": "Bags",
+      "description": "A taupe shoulder bag with a knotted triangular flap and long fringe. Ask Manar about the pictured style and possible options.",
+      "photos": [
+        3
+      ]
+    },
+    {
+      "id": "tassel-keyrings",
+      "title": "Tassel keyrings",
+      "category": "Little gifts",
+      "description": "Tassel keyrings in burgundy, taupe, pink and cream. A photo reference for discussing small gifts and occasion ideas.",
+      "photos": [
+        4
+      ]
+    },
+    {
+      "id": "round-fringe-mirrors",
+      "title": "Round fringe mirrors",
+      "category": "Wall & mirrors",
+      "description": "Round mirrors framed with macrame and fringe. Two gallery photographs show different tones; confirm the version you prefer with Manar.",
+      "photos": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "two-tone-bag",
+      "title": "Two-tone shoulder bag",
+      "category": "Bags",
+      "description": "Brown and cream knotwork on a shoulder bag, photographed on a dark table. Ask about the design and your preferred palette.",
+      "photos": [
+        5
+      ]
+    },
+    {
+      "id": "sage-wall-hanging",
+      "title": "Sage wall hanging",
+      "category": "Wall & mirrors",
+      "description": "A narrow sage-toned hanging with geometric knotwork and soft fringe. Use the photo to discuss colour and scale.",
+      "photos": [
+        6
+      ]
+    },
+    {
+      "id": "table-vessel-textures",
+      "title": "Table vessel textures",
+      "category": "Table textures",
+      "description": "Cream knotted vessel covers shown in a styled table setting. Ask about the macrame pieces and what is included; the styling is a photo reference.",
+      "photos": [
+        1,
+        2
+      ]
+    }
+  ]
+}
