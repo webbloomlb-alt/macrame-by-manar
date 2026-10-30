@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "macrame-by-manar",
+    "name": "Macrame By Manar",
+    "theme": "manar",
+    "domain": "macrame-by-manar.duckdns.org",
+    "iis": "MacrameByManar",
+    "port": 8083,
+    "phone": "+96178843669",
+    "phone_display": "+961 78 843 669",
+    "email": null,
+    "instagram": "https://www.instagram.com/macrame.by.manar/",
+    "handle": "@macrame.by.manar",
+    "location": "Btouratij, Koura",
+    "makers": "Manar Ayoubi",
+    "address": "Btouratij, Koura, Lebanon",
+    "map": "https://maps.app.goo.gl/VUFPDuTMpuRsuoVc8",
+    "headline": "Bring a little<br><em>texture</em> home.",
+    "intro": "Soft fringes. Quiet colours. Knotted details with a place in your everyday. Explore macrame home decor, bags and little gifts by Manar Ayoubi.",
+    "eyebrow": "Macrame, made personal",
+    "tag": "A softer kind of statement",
+    "stamp": "Made by hand<br>In Lebanon",
+    "hero": 1,
+    "inset": 6,
+    "story": 9,
+    "story_label": "The maker behind the knots",
+    "story_title": "Thoughtful details.<br><em>Tactile spaces.</em>",
+    "story_short": "From Btouratij in Koura, Manar Ayoubi creates macrame for the home, accessories and souvenirs for special occasions. Her pictured work brings together natural tones, texture and fringe.",
+    "story_long": "Macrame By Manar is the work of Manar Ayoubi, based in Btouratij, Koura. Her public portfolio brings together home decor, bags, accessories and souvenirs for occasions.",
+    "story_second": "A fringed mirror, a textured vessel, a bag with a knotted flap: each photograph is a starting point for exploring the work. Save the references you like and speak with Manar about colour, size, current options and pricing.",
+    "statement": "Natural tones. Soft edges.<br>A little more feeling in the everyday.",
+    "visit": "Please contact Manar before visiting to confirm the location and a suitable time.",
+    "closing": "An idea, waiting<br>to be <em style='color:inherit'>knotted.</em>",
+    "closing_text": "A finishing touch for home or a thoughtful little gift. Share your idea and ask Manar about the possibilities.",
+    "collection_intro": "Discover knotted textures for your home, your everyday and your next thoughtful gift. Choose a photo reference and discuss the details with Manar.",
+    "gallery_intro": "Styled spaces, knotted details and pieces up close. Open a photograph to see its full composition.",
+    "categories": [
+      "Wall & mirrors",
+      "Bags",
+      "Little gifts",
+      "Table textures"
+    ],
+    "products": [
+      [
+        9,
+        "natural-wall-hanging",
+        "Natural wall hanging",
+        "Wall & mirrors",
+        "A large geometric macrame wall hanging on a wooden rod, with long cream fringe. Share your wall measurements when enquiring.",
+        []
+      ],
+      [
+        3,
+        "fringed-shoulder-bag",
+        "Fringed shoulder bag",
+        "Bags",
+        "A taupe shoulder bag with a knotted triangular flap and long fringe. Ask Manar about the pictured style and possible options.",
+        []
+      ],
+      [
+        4,
+        "tassel-keyrings",
+        "Tassel keyrings",
+        "Little gifts",
+        "Tassel keyrings in burgundy, taupe, pink and cream. A photo reference for discussing small gifts and occasion ideas.",
+        []
+      ],
+      [
+        7,
+        "round-fringe-mirrors",
+        "Round fringe mirrors",
+        "Wall & mirrors",
+        "Round mirrors framed with macrame and fringe. Two gallery photographs show different tones; confirm the version you prefer with Manar.",
+        [
+          8
+        ]
+      ],
+      [
+        5,
+        "two-tone-bag",
+        "Two-tone shoulder bag",
+        "Bags",
+        "Brown and cream knotwork on a shoulder bag, photographed on a dark table. Ask about the design and your preferred palette.",
+        []
+      ],
+      [
+        6,
+        "sage-wall-hanging",
+        "Sage wall hanging",
+        "Wall & mirrors",
+        "A narrow sage-toned hanging with geometric knotwork and soft fringe. Use the photo to discuss colour and scale.",
+        []
+      ],
+      [
+        1,
+        "table-vessel-textures",
+        "Table vessel textures",
+        "Table textures",
+        "Cream knotted vessel covers shown in a styled table setting. Ask about the macrame pieces and what is included; the styling is a photo reference.",
+        [
+          2
+        ]
+      ]
+    ]
+  }
+]

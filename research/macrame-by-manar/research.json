@@ -1,0 +1,389 @@
+{
+  "business": "Macrame By Manar",
+  "research_date": "2026-10-28",
+  "scope": "Public-source research and reference assets for an independent local demo; no contact, publication or IIS changes performed",
+  "verified_facts": [
+    {
+      "fact": "Business name",
+      "value": "Macrame By Manar",
+      "sources": [
+        "https://wirach-lb.com/en/business/278/macrame-by-manar",
+        "https://www.instagram.com/macrame.by.manar/"
+      ],
+      "verification": "Directory title and official Instagram metadata"
+    },
+    {
+      "fact": "Listed owner/contact person",
+      "value": "Manar Ayoubi",
+      "sources": [
+        "https://wirach-lb.com/en/business/278/macrame-by-manar"
+      ],
+      "verification": "Business-specific directory owner panel"
+    },
+    {
+      "fact": "Location",
+      "value": {
+        "district": "Koura",
+        "town": "Btouratij",
+        "country": "Lebanon"
+      },
+      "sources": [
+        "https://wirach-lb.com/en/business/278/macrame-by-manar"
+      ],
+      "verification": "Directory location label; country supported by official Instagram bio"
+    },
+    {
+      "fact": "Listed categories",
+      "value": [
+        "macrame",
+        "Home Decor",
+        "Women’s Bags and Accessories",
+        "Handmade Accessories"
+      ],
+      "sources": [
+        "https://wirach-lb.com/en/business/278/macrame-by-manar"
+      ],
+      "verification": "Directory subcategory labels; spelling normalized"
+    },
+    {
+      "fact": "Hours",
+      "value": "Flexible",
+      "sources": [
+        "https://wirach-lb.com/en/business/278/macrame-by-manar"
+      ],
+      "verification": "Directory statement; no fixed schedule inferred"
+    },
+    {
+      "fact": "Craft and occasions",
+      "value": "Official profile describes handmade macrame and souvenirs for occasions.",
+      "sources": [
+        "https://www.instagram.com/macrame.by.manar/"
+      ],
+      "verification": "Public HTML description metadata retrieved by ordinary HTTPS"
+    },
+    {
+      "fact": "Delivery statement",
+      "value": "Official profile says delivery is available across Lebanon.",
+      "sources": [
+        "https://www.instagram.com/macrame.by.manar/"
+      ],
+      "verification": "Public HTML description metadata; business statement only, not a service guarantee or confirmed current ordering policy"
+    }
+  ],
+  "contacts": {
+    "phone_display": "+961 78 843 669",
+    "phone_e164": "+96178843669",
+    "phone_sources": [
+      "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "https://www.instagram.com/macrame.by.manar/"
+    ],
+    "phone_verification": "Directory lists full international number; official Instagram title independently includes local 78843669",
+    "tel_url": "tel:+96178843669",
+    "whatsapp_url_candidate": "https://wa.me/96178843669",
+    "whatsapp_verification": "Derived from public business phone; WhatsApp account availability not verified",
+    "email": null,
+    "email_note": "Directory email field empty; do not invent an address.",
+    "instagram": "https://www.instagram.com/macrame.by.manar/",
+    "facebook": "https://m.facebook.com/people/Macram%C3%AA-By-Manar/100063538031460/",
+    "social_verification": "Both URLs linked by directory; Instagram metadata fetched successfully; Facebook redirected to login.",
+    "map_url": "https://maps.app.goo.gl/VUFPDuTMpuRsuoVc8",
+    "map_verification": "Directory public map link; map destination not independently inspected.",
+    "directory_url": "https://wirach-lb.com/en/business/278/macrame-by-manar"
+  },
+  "website_screening": {
+    "status": "No matching standalone website surfaced in this bounded public-source screening; absence remains unconfirmed.",
+    "matching_standalone_website": null,
+    "owner_confirmation": "Not obtained; do not label this business as confirmed to have no website.",
+    "queries": [
+      {
+        "query": "\"macrame.by.manar\" website",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macrame by Manar\" Manar Ayoubi",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macrame by Manar\" Btouratij",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"78843669\"",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"macrame.by.manar\"",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macrame By Manar\" -site:wirach-lb.com",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Manar Ayoubi\" macrame",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"macrame\" \"Manar\" \"Btouratij\"",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macramê By Manar\"",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"macrame.by.manar\" site:instagram.com",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macrame By Manar\" website Lebanon",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"macrame by manar\" shop -site:wirach-lb.com",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"macramebymanar\"",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macrame Manar\" Lebanon",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"Macramé By Manar\" Lebanon",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      },
+      {
+        "query": "\"منار\" \"مكرمية\" \"الكورة\"",
+        "result_summary": "Search batch yielded no positively matched standalone website; matching public business result was Wirach. Unrelated name and numeric matches were excluded."
+      }
+    ],
+    "matching_results": [
+      {
+        "url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+        "type": "Third-party business directory",
+        "match_basis": "Exact name, owner/contact person, location, phone and official social links"
+      },
+      {
+        "url": "https://www.instagram.com/macrame.by.manar/",
+        "type": "Official social profile",
+        "match_basis": "Directory link, business name and matching local phone in official metadata"
+      }
+    ],
+    "public_link_checks": [
+      {
+        "url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+        "result": "Website field is empty href http://; email field is empty. Links point to Instagram, Facebook, map and directory pages."
+      },
+      {
+        "url": "https://www.instagram.com/macrame.by.manar/",
+        "result": "Public HTTPS response provided business title/bio metadata. Visible body was a login/shell without business outbound links, so full bio-link screening is incomplete."
+      },
+      {
+        "url": "https://m.facebook.com/people/Macram%C3%AA-By-Manar/100063538031460/",
+        "result": "Public HTTPS request redirected to Facebook login, limiting outbound-link screening."
+      }
+    ],
+    "limits": [
+      "Search indexes can miss existing sites or new domains.",
+      "Owner has not confirmed website status.",
+      "Facebook content and full Instagram bio-link area could not be inspected anonymously."
+    ]
+  },
+  "images": [
+    {
+      "id": "manar-01",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-01.jpg",
+      "source_url": "https://wirach-lb.com/storage/275/conversions/business-278-65141206d84e6_WhatsApp-Image-2023-09-11-at-13.42.22-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Macrame table vessels",
+      "category": "Home decor",
+      "description": "Cream knotted covers on vessels with dried stems in a styled table setting.",
+      "alt": "Macrame-covered vessels and dried stems on a styled dining table",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Useful wide hero image; styled project photograph. Do not imply event services or vase contents included.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-02",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-02.jpg",
+      "source_url": "https://wirach-lb.com/storage/276/conversions/business-278-6514120727fd3_WhatsApp-Image-2023-09-11-at-13.46.02-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Table vessel detail",
+      "category": "Home decor",
+      "description": "A cream fringed macrame-covered vessel with dried stems beside candles and table settings.",
+      "alt": "Cream fringed macrame vessel with dried stems beside candles",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Same styled setting as gallery-01; do not count as a separate verified product.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-03",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-03.jpg",
+      "source_url": "https://wirach-lb.com/storage/277/conversions/business-278-6514120a5d484_WhatsApp-Image-2023-09-11-at-13.51.33-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Fringed shoulder bag",
+      "category": "Bags",
+      "description": "Taupe knotted shoulder bag with a triangular flap, braided strap, and long fringe.",
+      "alt": "Taupe macrame shoulder bag with triangular flap and long fringe",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Descriptive title; official product name, fibre composition, size and current availability unknown.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-04",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-04.jpg",
+      "source_url": "https://wirach-lb.com/storage/278/conversions/business-278-6514120b665be_WhatsApp-Image-2023-09-11-at-13.52.50-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Macrame keyrings",
+      "category": "Accessories",
+      "description": "A row of tasselled knotted keyrings in burgundy, taupe, pink, cream, and neutral tones.",
+      "alt": "Macrame tassel keyrings in burgundy, taupe, pink, cream and neutral colours",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Multiple pictured colours; no live variants or inventory claim.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-05",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-05.jpg",
+      "source_url": "https://wirach-lb.com/storage/279/conversions/business-278-651412182425f_WhatsApp-Image-2023-09-11-at-13.59.43-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Two-tone shoulder bag",
+      "category": "Bags",
+      "description": "A brown and cream knotted shoulder bag with long tassels and a narrow strap on a dark tabletop.",
+      "alt": "Brown and cream macrame shoulder bag with tassels",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Descriptive title; fibre composition, price, size and availability unknown.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-06",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-06.jpg",
+      "source_url": "https://wirach-lb.com/storage/280/conversions/business-278-651412183f7d4_WhatsApp-Image-2023-09-11-at-13.59.43-%281%29-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Sage wall hanging",
+      "category": "Wall decor",
+      "description": "A sage-toned knotted wall hanging with geometric panels and long fringe suspended from a branch.",
+      "alt": "Sage green macrame wall hanging with geometric knots and long fringe",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Colour described from photo; exact material and dimensions unknown.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-07",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-07.jpg",
+      "source_url": "https://wirach-lb.com/storage/281/conversions/business-278-6514121a62556_WhatsApp-Image-2023-09-11-at-13.59.44-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Round fringe mirror",
+      "category": "Mirrors",
+      "description": "A round mirror surrounded by a taupe macrame frame with a geometric knotted border and fringe.",
+      "alt": "Round mirror with taupe knotted macrame frame and fringe",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "May be a variant or another view of a similar mirror; no separate inventory claim.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-08",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-08.jpg",
+      "source_url": "https://wirach-lb.com/storage/282/conversions/business-278-6514121b31283_WhatsApp-Image-2023-09-11-at-13.59.45-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Natural round mirror",
+      "category": "Mirrors",
+      "description": "A round mirror with a cream macrame frame showing repeating geometric knots and short fringe.",
+      "alt": "Round mirror with cream geometric macrame frame and fringe",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "May be a variant or another view of a similar mirror; no separate inventory claim.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    },
+    {
+      "id": "manar-09",
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\gallery-09.jpg",
+      "source_url": "https://wirach-lb.com/storage/283/conversions/business-278-6514121bc0271_WhatsApp-Image-2023-09-11-at-13.59.46-thumb-large.jpg",
+      "source_page_url": "https://wirach-lb.com/en/business/278/macrame-by-manar",
+      "source_kind": "Business-specific public directory gallery",
+      "width": 1200,
+      "height": 800,
+      "title": "Large geometric wall hanging",
+      "category": "Wall decor",
+      "description": "A large natural-coloured macrame wall hanging on a wooden rod with repeating diamonds, curved knots, and long fringe.",
+      "alt": "Large cream macrame wall hanging with repeating diamonds and long fringe",
+      "title_status": "Descriptive editorial label based on visible subject, not an official product name",
+      "notes": "Useful full-width gallery photograph; exact dimensions and availability unknown.",
+      "attribution": "Macrame By Manar gallery on Wirach; visible photographer or brand watermarks retained",
+      "rights_status": "Publicly accessible reference image; owner reuse permission has not been independently confirmed"
+    }
+  ],
+  "brand_asset": {
+    "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\instagram-profile.jpg",
+    "source_url": "https://scontent.cdninstagram.com/v/t51.2885-19/182088419_202132088391739_8006857366835110650_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0qxLFyAt39MQ7kNvwFhOKtT&_nc_oc=AdpIYXkIk3mb_uVkZLKid2DoGtafdIHkdws1gchzBbc_2uU9d5gxxEC9W0CnvMtlTzw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=79a02&oh=00_AQSuqdh9FA2tz0p6P5o6CtSvPOzJfh3hExvaf8NQ00E48g&oe=6AE81C28",
+    "source_page_url": "https://www.instagram.com/macrame.by.manar/",
+    "width": 100,
+    "height": 100,
+    "description": "Official Instagram profile image: knotted linear motif and Macrame By Manar text on an off-white background.",
+    "alt": "Macrame By Manar logo with a knotted geometric motif",
+    "notes": "Only 100 by 100 pixels; use small. Do not upscale as a large feature.",
+    "rights_status": "Official profile image publicly accessible; owner permission not independently confirmed"
+  },
+  "excluded_assets": [
+    {
+      "local_path": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\images\\directory-placeholder.jpg",
+      "source_url": "https://wirach-lb.com/storage/274/conversions/business-278-thumb-medium.jpg",
+      "reason": "Generic Wirach directory graphic, not the Macrame By Manar business logo; do not use as brand asset."
+    }
+  ],
+  "contact_sheet": "C:\\Projects\\business-websites\\research\\macrame-by-manar\\contact-sheet.jpg",
+  "content_constraints": [
+    "No invented prices, SKUs, product names represented as official, customer reviews, availability, dimensions, material claims, delivery promises or inventory.",
+    "Use descriptive project captions and an inquiry flow for current details.",
+    "Nine gallery photographs represent fewer than nine confirmed distinct products; two table photos share a styled setting and mirror photos may be related.",
+    "Some photographs retain visible brand/photographer watermarks; preserve them.",
+    "No outreach or independent owner consent obtained."
+  ],
+  "uncertainties": [
+    "Current product availability, prices, sizing and materials are unknown.",
+    "Exact business location beyond the directory town is not independently verified.",
+    "Website absence is unconfirmed.",
+    "Whether public telephone supports WhatsApp is unverified.",
+    "Image reuse authorization is unconfirmed."
+  ],
+  "local_evidence_files": [
+    "C:\\Projects\\business-websites\\research\\macrame-by-manar\\wirach-source.html",
+    "C:\\Projects\\business-websites\\research\\macrame-by-manar\\instagram-source.html",
+    "C:\\Projects\\business-websites\\research\\macrame-by-manar\\social-access-check.json",
+    "C:\\Projects\\business-websites\\research\\macrame-by-manar\\download-manifest.json"
+  ]
+}
